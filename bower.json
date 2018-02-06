@@ -1,0 +1,17 @@
+{
+  "name": "pokedex",
+  "homepage": "https://github.com/Braillon7/pokedex",
+  "authors": [
+    "William Watts <williamwatts38@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
